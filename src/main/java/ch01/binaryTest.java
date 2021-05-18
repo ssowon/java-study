@@ -8,7 +8,7 @@ public class binaryTest {
         int xNum = 0XA;     //16진수
 
         System.out.println(num);
-        System.out.println(bNum);
+        System.out.println(bNum); 
         System.out.println(oNum);
         System.out.println(xNum);
     }
